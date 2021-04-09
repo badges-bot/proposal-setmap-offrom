@@ -1,5 +1,7 @@
 # `of` and `from` on collection constructors
 
+![Stage 1](https://badges.aleen42.com/src/tc39_2.svg)
+
 
 - [Spec](https://tc39.github.io/proposal-setmap-offrom/)
 
